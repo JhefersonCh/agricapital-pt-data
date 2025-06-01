@@ -1,0 +1,11 @@
+Repositorio Front: https://github.com/JhefersonCh/agricapital-pt-front
+Repositorio Back: https://github.com/JhefersonCh/agricapital-pt-back
+Repositorio Data: https://github.com/JhefersonCh/agricapital-pt-data
+
+Documentación técnica Front (Devin): https://deepwiki.com/JhefersonCh/agricapital-pt-front
+Documentación técnica Back (Devin): https://deepwiki.com/JhefersonCh/agricapital-pt-back
+
+Despliegue Front (Vercel): https://agricapital-pt-front.vercel.app/
+Despliegue Back (Render): https://agricapital-pt-back.onrender.com/
+
+Bases de datos: Supabase / Railway (No tienen links públicos)
